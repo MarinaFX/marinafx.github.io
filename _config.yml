@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Marina's Portfolio
+title: My Portfolio
 email: pazzi.dev@gmail.com
-description: >- "Welcome to my Portfolio. This is a simple website to showcase and display a little bit about me and my experience throughout my iOS Software Engineering career."
+description: >- Welcome to my Portfolio. This is a simple website to showcase and display a little bit about me and my experience throughout my iOS Software Engineering career.
 baseurl: "/root" # the subpath of your site, e.g. /blog
 url: "https://marinafx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: @notwitter
 github_username:  MarinaFX
 
 # Build settings
